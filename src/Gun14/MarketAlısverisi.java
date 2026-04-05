@@ -1,7 +1,6 @@
-package Gun1;
+package Gun14;
 
-public class SoruCevap
-{
+public class MarketAlısverisi {
     public static void main(String[] args) {
 
     }
