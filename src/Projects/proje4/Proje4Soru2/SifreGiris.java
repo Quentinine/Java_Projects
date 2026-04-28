@@ -1,4 +1,4 @@
-package Projects.Proje4.ProjeSoru2;
+package Projects.proje4.Proje4Soru2;
 
 import java.util.Scanner;
 
@@ -7,7 +7,5 @@ public class SifreGiris {
         Scanner sc = new Scanner(System.in);
         System.out.println("Lütfen şifrenizi girin: ");
         String parola = sc.nextLine();
-
-        SifreKontrol.kontrol(parola);
     }
 }
